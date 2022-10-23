@@ -1,0 +1,68 @@
+.header {
+  height: 80px;
+}
+.header-navbar {
+  display: flex;
+  flex-direction: row;
+}
+.header-navbar-left {
+  display: flex;
+  flex-direction: row;
+  padding: 28px 384px 0 118px;
+}
+.header-navbar-left-button-women {
+  font-family: "Raleway";
+  font-weight: 600;
+  font-size: 16px;
+  text-transform: uppercase;
+  color: #5ece7b;
+  margin: 0 32px 0 0;
+  padding: 30px;
+  border: none;
+  background-color: white;
+  border-bottom: 1px solid #5ece7b;
+  padding-bottom: 30px;
+  border-start-end-radius: 66px;
+  cursor: pointer;
+}
+.header-navbar-left-button-men {
+  font-family: "Raleway";
+  font-weight: 400;
+  font-size: 16px;
+  text-transform: uppercase;
+  color: #1d1f22;
+  margin: 0 32px 0 0;
+  border: none;
+  background-color: white;
+  cursor: pointer;
+}
+.header-navbar-left-button-kids {
+  font-family: "Raleway";
+  font-weight: 400;
+  font-size: 16px;
+  text-transform: uppercase;
+  color: #1d1f22;
+  border: none;
+  background-color: white;
+  cursor: pointer;
+}
+.header-navbar-right {
+  display: flex;
+  flex-direction: row;
+  padding: 24px 101px 0 410px;
+}
+.header-navbar-right-money {
+  font-family: "Raleway";
+  font-weight: 500;
+  font-size: 18px;
+  color: #1d1f22;
+  padding: 0 38px 0 0;
+  border: none;
+  background-color: white;
+  cursor: pointer;
+}
+.header-navbar-right-card {
+  border: none;
+  background-color: white;
+  cursor: pointer;
+}
